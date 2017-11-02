@@ -1,0 +1,9 @@
+[submodule "uaa"]
+	path = uaa
+	url = https://github.com/VSaliy/uaa.git
+[submodule "bridge"]
+	path = bridge
+	url = https://github.com/VSaliy/bridge.git
+[submodule "core"]
+	path = core
+	url = https://github.com/VSaliy/core.git
