@@ -1,6 +1,6 @@
-git submodule init 
+`git submodule init`
 
-git submodule update --recursive
+`git submodule update --recursive`
 
 Create another directory, for example `mkdir docker-compose`.
 
